@@ -10,7 +10,8 @@
     "flexible",
     "survival",
     "flexible survival",
-    "preview flexible"
+    "preview flexible",
+		"fs"
   ],
   "activationCommands": {
     "atom-workspace": "preview-flexible-survival:toggle"
