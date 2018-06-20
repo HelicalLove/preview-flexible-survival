@@ -1,10 +1,10 @@
 {
   "name": "preview-flexible-survival",
   "main": "./lib/preview-flexible-survival",
-  "version": "0.0.0",
-	"author": "hahaluckyme <brimfoxxo@gmail.com>",
-	"description": "A preview text package for the Flexible Survival repository",
-	"keywords": [
+  "version": "0.1.0",
+  "author": "hahaluckyme <brimfoxxo@gmail.com>",
+  "description": "A preview text package for the Flexible Survival repository",
+  "keywords": [
     "preview-flexible-survival",
     "preview",
     "flexible",
@@ -15,11 +15,10 @@
   "activationCommands": {
     "atom-workspace": "preview-flexible-survival:toggle"
   },
-	"repository": "https://github.com/HelicalLove/preview-flexible-survival.git",
+  "repository": "https://github.com/HelicalLove/preview-flexible-survival.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
