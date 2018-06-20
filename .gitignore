@@ -1,0 +1,7 @@
+.DS_Store
+npm-debug.log
+node_modules
+.tags
+.tags1
+.tags2
+.tags_swap
