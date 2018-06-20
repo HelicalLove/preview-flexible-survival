@@ -1,0 +1,18 @@
+{
+  "name": "preview-flexible-survival",
+  "main": "./lib/preview-flexible-survival",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "preview-flexible-survival:toggle"
+  },
+  "repository": "https://github.com/atom/preview-flexible-survival",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

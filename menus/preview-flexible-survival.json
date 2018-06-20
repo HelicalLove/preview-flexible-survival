@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle preview-flexible-survival",
+        "command": "preview-flexible-survival:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "preview-flexible-survival",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "preview-flexible-survival:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
