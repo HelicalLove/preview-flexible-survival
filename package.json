@@ -10,7 +10,8 @@
     "flexible",
     "survival",
     "flexible survival",
-    "preview flexible"
+    "preview flexible",
+		"fs"
   ],
   "repository": "https://github.com/HelicalLove/preview-flexible-survival.git",
   "license": "MIT",
