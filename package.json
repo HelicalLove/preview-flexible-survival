@@ -1,7 +1,7 @@
 {
   "name": "preview-flexible-survival",
   "main": "./lib/index",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "hahaluckyme <brimfoxxo@gmail.com>",
   "description": "A preview text package for the Flexible Survival repository",
   "keywords": [
@@ -11,7 +11,7 @@
     "survival",
     "flexible survival",
     "preview flexible",
-		"fs"
+    "fs"
   ],
   "repository": "https://github.com/HelicalLove/preview-flexible-survival.git",
   "license": "MIT",
@@ -24,7 +24,7 @@
   "dependencies": {
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
-		"react-contextual": "^5.0.2"
+    "react-contextual": "^5.0.2"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
