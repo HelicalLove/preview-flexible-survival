@@ -21,14 +21,10 @@
   "activationCommands": {
     "atom-workspace": "preview-flexible-survival:toggle"
   },
-  "scripts": {
-    "build": "babel src/ -d lib/",
-    "prepublish": "npm run build",
-    "flow": "flow"
-  },
   "dependencies": {
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+		"react-contextual": "^5.0.2"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
